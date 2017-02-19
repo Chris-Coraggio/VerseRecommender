@@ -1,0 +1,23 @@
+{
+  "name": "verse-recommender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Coraggio/VerseRecommender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Coraggio/VerseRecommender/issues"
+  },
+  "homepage": "https://github.com/Chris-Coraggio/VerseRecommender#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "request": "^2.79.0"
+  }
+}
